@@ -41,3 +41,7 @@ replace google.golang.org/appengine => github.com/golang/appengine v1.6.5
 replace golang.org/x/mobile => github.com/golang/mobile v0.0.0-20200222142934-3c8601c510d0
 
 replace golang.org/x/image => github.com/golang/image v0.0.0-20200119044424-58c23975cae1
+
+replace golang.org/x/mod => github.com/golang/mod v0.0.0-20200119044424-58c23975cae1
+
+replace golang.org/x/xerrors => github.com/golang/xerrors v0.0.0-20191204190536-9bdfabe68543
